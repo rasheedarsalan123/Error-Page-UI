@@ -19,7 +19,7 @@ function App() {
           <div className="flex justify-end absolute top-24 right-24">
             <img src="/Images/Group 1410103677.svg" />
           </div>
-          <div className=" flex justify-end absolute top-80 right-[181px]  ">
+          <div className=" flex justify-end absolute top-80 right-[300px]  ">
             <img src="/Images/Group 1410103680.png" />
           </div>
         </div>
